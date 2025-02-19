@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Ehitemusie Nebyu
 
-<!--
-**Ewostatewos18/Ewostatewos18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering Student | Frontend & Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+🔹 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 4th-year Software Engineering student at Bahir Dar University
+
+🏆 1st Place Winner in an E-commerce Hackathon
+
+🌍 Passionate about web development, AI, and open-source contributions
+
+🔥 Skilled in JavaScript, React, Next.js, Tailwind CSS, Flutter, Node.js, MongoDB
+
+💡 Currently working on an Order Management System & Student List App (Flutter + Hive)
+
+💼 Seeking a Software Engineer Internship in Addis Ababa, Ethiopia
+
+
+📫 How to Reach Me
+
+💌 Email: nebyuehitemusie@gmail.com
+
+🔗 LinkedIn:https://www.linkedin.com/in/ehitemusie-nebyu-8073512b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🌍 Portfolio: https://ehiteportfolio.netlify.app/
+
+
+⚡ Fun Fact
+
+I love building sleek UI designs with dark themes & gold accents! 🎨
+
+
